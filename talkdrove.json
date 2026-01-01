@@ -1,0 +1,25 @@
+{
+  "bot-name": "FATIMA-MD",
+  "description": "FATIMA-MD made for people on Dua Fatima",
+  "logo": "https://files.catbox.moe/khkt0d.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://dua-fatima.onrender.com/",
+  "owner-verification": "policeduafatima@gmail.com",
+  "env": {
+    "SESSION_ID": {
+      "description": "Put session id",
+      "value": "",
+      "required": true
+    },
+    "PREFIX": {
+      "description": "Bot command prefix, (e.g, . , ! @ etc",
+      "value": ".",
+      "required": true  
+    },
+    "PREMIUM_USERS": {
+      "description": "premium users",
+      "value": "9231556411**",
+      "required": false
+    }
+  }
+}
