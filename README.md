@@ -49,20 +49,20 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 -------------
   
-<a href='https://fatima-md-v3.onrender.com' target="_blank">
+<a href='https://m-nawaz-md.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 
 -------------
 
-<a href='https://fatima-md-v3.onrender.com' target="_blank">
+<a href='https://m-nawaz-md.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
 -------------
 
-<a href='https://fatima-md-v3.onrender.com' target="_blank">
+<a href='https://m-nawaz-md.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FFFB?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
